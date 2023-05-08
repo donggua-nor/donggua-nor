@@ -8,4 +8,4 @@ I'm Haodong Chen, just call me _Donggua_ (an interesting nickname derived from m
 
 #### Working Stats
 
-![Working Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@donggua&hide_title=true&langs_count=5&theme=vue-dark&show-icons=true)
+![Working Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@donggua&hide_title=true&langs_count=5&theme=vue-dark&show-icons=true&range=last_7_days)
